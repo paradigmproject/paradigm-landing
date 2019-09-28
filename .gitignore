@@ -1,0 +1,8 @@
+node_modules
+.next
+.idea
+yarn.lock
+build
+dist
+.DS_Store
+.bit
