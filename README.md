@@ -1,1 +1,1 @@
-# paradigm-landing
+# Paradigm Landing Page
